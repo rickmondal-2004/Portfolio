@@ -30,7 +30,7 @@ header{
     top: 0;
     bottom: 0;
     transition: 0.4s;
-    z-index: 99;
+    z-index: 99; 
 
 }
 header .profile{
@@ -103,11 +103,11 @@ header .footer{
     letter-spacing: 0.6px;
     padding: 15px;
     position: fixed;
-    bottom: 15px;
     bottom: 0;
     left: 0;
     transition: 0.4s;
 }
+
 
 
 
