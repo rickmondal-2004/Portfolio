@@ -104,6 +104,7 @@ header .footer{
     padding: 15px;
     position: fixed;
     bottom: 15px;
+    bottom: 0;
     left: 0;
     transition: 0.4s;
 }
