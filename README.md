@@ -5,7 +5,7 @@
 ## Computer View 👇🏽
 <p align="center">
 
-![image](https://rickmondal-2004.github.io/Portfolio/images/bg.png)
+![image](images/bg.png)
 
 
 # Screenshots 
